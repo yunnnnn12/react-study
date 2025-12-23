@@ -1,6 +1,6 @@
 # Component
 
-# What I Learned
+## What I Learned
 ## 1. DefineComponent.js
 - export default 접두사는 JavaScript 구문이다. export default 접두사로 컴포넌트를 내보낸다.
 - src및 alt 속성을 가진 <img /> 태그 반환한다.
