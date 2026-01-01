@@ -19,6 +19,6 @@
  ## 2. jsx_2.js
  - src또는 alt를 동적으로 지정하려면 ""를 {}로 바꾸어야 한다. 
  - jsx에서 객체를 전달하려면 person={{ name: "Hedy Lamarr", inventions: 5 }}와 같이 다른 중괄호 쌍으로 객체를 감싸야 한다. 
- - 리액트에서는 "<div style="color: red; font-size: 20px"></div>" 이러한 인라인 스타일이 필요없다.
+ - 리액트에서는 style="color: red; font-size: 20px"> 이러한 인라인 스타일이 필요없다.
  - 인라인 스타일 프로퍼티는 캐멀 케이스로 작성된다. 
 
