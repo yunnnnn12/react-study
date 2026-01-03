@@ -4,7 +4,7 @@
 ### 1. map.js
 - js에서 배열은 "[]"로 감싸져 있고 값들이 ","로 구분되어 있다. 
 - map은 배열을 반환하는 함수이다. 
-- person => <li>{person}</li>는 함수이다. 
+- `person => <li>{person}</li>`는 함수이다. 
 - listItems는 people배열의 요소를 하나 꺼내서 li태그로 감싸서 배열로 만드는 것이다. 
 
 ### 2.filter.js
